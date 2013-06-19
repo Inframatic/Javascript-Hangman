@@ -1,0 +1,70 @@
+body {
+background: rgb(7, 9, 22) url(http://www.hdwpapers.com/walls/world_war_ii_berlin_reichstag_wallpaper-wide.jpg) 50% 30px no-repeat fixed;
+}
+header {
+/*display: block;*/
+z-index: 90;
+/*position: relative;*/
+width: 100%;
+min-width: 1016px;
+height: 160px;
+background: 50% 0px no-repeat;
+border-style: groove;
+background-color: #FF0000;
+margin-bottom: 10px;
+background: rgb(200, 0, 0) url(http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/500px-Flag_of_the_Soviet_Union.svg.png) 50% 30px no-repeat fixed;
+border: outset #FFD700 1.5px;
+}
+
+h1 {
+	margin: auto 0px;
+	color:#F2C200;
+	text-align: center;
+	vertical-align:text-top;
+
+}
+
+.guessed {
+	font-size: 35px;
+	color:#F2C200;
+	margin: auto 0px;
+}
+
+.underscore {
+	font-size: 35px;
+	color:#F2C200;
+	margin: auto 0px;
+}
+
+.textnbutton {
+	font-size: 50px;
+	color:#FFE9B1;
+	margin: auto 0px;
+}
+
+.container1 {
+	width:300px;
+	margin: 0 auto;
+	text-align:center;
+	padding:15px;
+	border: outset #FFD700 1.5px;
+	background-color:#000013;
+	/*display:inline-block;*/
+}
+
+.container2 {
+	margin-top: 15px;
+	width:600px;
+	margin: 0 auto;
+	text-align:center;
+	padding:15px;
+	border: outset #FFD700 1.5px;
+	background-color:#000013;
+	height:100%;
+}
+
+p {
+	font-size: 30px;
+	color:#FFFFFF;
+	margin: auto 0px;
+}
